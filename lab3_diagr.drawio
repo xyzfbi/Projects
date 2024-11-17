@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Страница — 1" id="LChfCd9GJr9Gyu2wsHm_">
-    <mxGraphModel dx="2225" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="-500" y="227.5" width="32.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="aCc7TKT8OqYcb1qSQDQJ-17" value="Иначе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-467.5" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="-467.5" y="282.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aCc7TKT8OqYcb1qSQDQJ-18" value="The area of entered triangle is equal to &amp;lt;&amp;lt;result&amp;gt;&amp;gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="312.5" width="220" height="60" as="geometry" />
@@ -61,9 +61,6 @@
         <mxCell id="aCc7TKT8OqYcb1qSQDQJ-24" value="Enter size(n ,m) of matrix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="60" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-26" value="До n &amp;gt; 0 и n &amp;lt; lmax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="140" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aCc7TKT8OqYcb1qSQDQJ-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-954.12" y="110" width="14.12" height="40" as="geometry" />
         </mxCell>
@@ -75,6 +72,108 @@
         </mxCell>
         <mxCell id="aCc7TKT8OqYcb1qSQDQJ-30" value="&amp;lt;n&amp;gt;, &amp;lt;m&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-940" y="117.5" width="126" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-947.27" y="190" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-44" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Enter element at index [i] [j]:&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-947.27" y="192.5" width="130.46" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-45" value="&amp;lt;arr[0][0]&amp;gt;, &amp;lt;arr[0][1]&amp;gt; ... &amp;lt;arr[n -1][m - 1]&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-957.27" y="210" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="250" width="220.46" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-50" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;The matrix is:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="250" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-51" value="&amp;lt;&amp;lt;arr[0][0]&amp;gt;&amp;gt;, &amp;lt;&amp;lt;arr[0][1]&amp;gt;&amp;gt; ... &amp;lt;&amp;lt; arr[0][m-1]&amp;gt;&amp;gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;arr[1][0] &amp;gt;&amp;gt; ... &amp;lt;&amp;lt;arr[1][m-1]&amp;gt;&amp;gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;arr[n-1][0]&amp;gt;&amp;gt; ... &amp;lt;&amp;lt;arr[n-1][m-1] &amp;gt;&amp;gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-945" y="275" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-52" value="result = Calculations(arr, n, m)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-957.27" y="312.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-53" value="The result is &amp;lt;&amp;lt;result&amp;gt;&amp;gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-953.15" y="335" width="153.15" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-54" value="До n &amp;gt; 0 и n &amp;lt; lmax и m &amp;gt; 0 и m &amp;lt; lmax и количество переменных == 2 и n целое и m целое" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="150" width="355.46" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-55" value="Laboratory work 3. Part 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Enter length of array A[1:lmax]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="55" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-57" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1440" y="50" width="10.91" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="52.5" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="52.5" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-60" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10px;&quot;&gt;До n &amp;gt; 0 и n &amp;lt; lmax количество переменных == 1 и n целое&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="80" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-61" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1590.23" y="105" width="140.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-62" value="&lt;span style=&quot;font-size: 10px; text-align: left;&quot;&gt;Введите элементы массива:&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1600.23" y="105" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-63" value="&amp;lt;arr[0]&amp;gt;, &amp;lt;arr[1]&amp;gt; ... &amp;lt;arr[na -1]&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-1625" y="125" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1435" y="102.5" width="10.91" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="102.5" width="10" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-70" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="105" width="15" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-71" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 10px;&quot;&gt;До arr[n-1] &amp;gt; INT_MIN и n &amp;lt; INT_MAX количество переменных == 1 и arr[na - 1] целое&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="150" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="170" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-73" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Entered array:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-74" value="&lt;span style=&quot;text-align: center;&quot;&gt;&amp;lt;&amp;lt;arr[0]&amp;gt;&amp;gt;, &amp;lt;&amp;lt;arr[1]&amp;gt;&amp;gt; ... &amp;lt;&amp;lt;arr[n -1]&amp;gt;&amp;gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-1599.77" y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600.23" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Count of repeat nums:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1600.23" y="220" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-77" value="&lt;span style=&quot;text-align: center;&quot;&gt;&amp;lt;&amp;lt;C[0]&amp;gt;&amp;gt;, &amp;lt;&amp;lt;C[1]&amp;gt;&amp;gt; ... &amp;lt;&amp;lt;C[rl -1]&amp;gt;&amp;gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="230" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-78" value="При nb = 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1600.23" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-79" value="The array is empty" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1590.23" y="290" width="119.77" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-80" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="285" width="19.77" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-81" value="Иначе" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1600.23" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-82" value="Modified array:&amp;nbsp;&lt;div&gt;&amp;lt;&amp;lt;B[0]&amp;gt;&amp;gt;, &amp;lt;&amp;lt;B[1]&amp;gt;&amp;gt;, ..., &amp;lt;&amp;lt;B[nb - 1]&amp;gt;&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1599.77" y="335" width="208.75" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aCc7TKT8OqYcb1qSQDQJ-83" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1622.73" y="323.75" width="32.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
